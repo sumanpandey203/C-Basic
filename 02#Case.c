@@ -3,6 +3,7 @@
 
 int main (){
 //	my first c programm
+// case operation
 	
 	int number;
 	printf("Please enter the number to check the day \n");
