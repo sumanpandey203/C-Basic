@@ -1,6 +1,5 @@
+// my first edit in the GithuB
 #include<stdio.h>
-
-
 int main() {
 
 	printf("Hello World \n"); 
